@@ -24,13 +24,13 @@ Challenges are organized as follows:
 
 ```
 Competition/
-    Category/
-        Challenge/
-            README.md (challenge statement)
-            solution/
-                README.md (official solution/writeup)
+    Category/
+        Challenge/
+            README.md (challenge statement)
+            solution/
+                README.md (official solution/writeup)
                 (potentially other useful files)
-            files/ or challenge.zip (resources)
+            resources
 ```
 
 ---

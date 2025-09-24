@@ -24,7 +24,7 @@ The flag must be provided in the form **polycyber{beach_name}** with the name of
 
 ## Files
 
-- ![photo_temoin.jpg](photo_temoin.jpg)
+![photo_temoin.jpg](photo_temoin.jpg)
 
 ## Solution
 

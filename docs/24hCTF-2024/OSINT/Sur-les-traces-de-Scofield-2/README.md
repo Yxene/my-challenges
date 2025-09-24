@@ -16,7 +16,7 @@ The flag must be provided in the form **polycyber{MD5(TC_LID)}** and the hash is
 
 ## Files
 
-- ![piece_a_conviction.jpg](piece_a_conviction.jpg)
+![piece_a_conviction.jpg](piece_a_conviction.jpg)
 
 ## Solution
 
