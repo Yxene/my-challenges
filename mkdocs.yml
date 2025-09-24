@@ -22,3 +22,6 @@ nav:
   - h0h0h0day CTF 2024:
     - Steganography:
       - Dialing To Merry Festivities: h0h0h0day-CTF-2024/Steganography/Dialing-to-merry-festivities/README.md
+  - PolyPwn 2025:
+    - Network:
+      - TitaNIC: PolyPwn-2025/Network/TitaNIC/README.md
