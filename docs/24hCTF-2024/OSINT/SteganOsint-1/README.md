@@ -26,7 +26,7 @@ The flag must be provided in the form **polycyber{first_name_last_name}** all in
 
 ## Files
 
-- [Tableau.webp](Tableau.webp)
+- ![Tableau.webp](Tableau.webp)
 
 ## Solution
 
