@@ -27,7 +27,9 @@ Competition/
     Category/
         Challenge/
             README.md (challenge statement)
-            solution.md (official solution/writeup)
+            solution/
+                README.md (official solution/writeup)
+                (potentially other useful files)
             files/ or challenge.zip (resources)
 ```
 
