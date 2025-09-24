@@ -26,6 +26,10 @@ jobs:
         run: |
           pip install mkdocs-material
 
+      - name: Build MkDocs
+        run: |
+          mkdocs build --strict --verbose
+
       - name: Build and deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
