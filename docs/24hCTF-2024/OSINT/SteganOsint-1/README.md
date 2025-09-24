@@ -30,4 +30,4 @@ The flag must be provided in the form **polycyber{first_name_last_name}** all in
 
 ## Solution
 
-La solution du défi se trouve [ici](solution/solution.md).
+La solution du défi se trouve [ici](solution/README.md).
