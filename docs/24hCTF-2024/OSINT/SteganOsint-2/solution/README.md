@@ -7,7 +7,7 @@ En cherchant les endroits où ont été prises les photos on peut remarquer quel
 En trouvant dans quelle avenue est prise chaque photo on obtient la suite de numéros suivante:
 18, 5, 14, 3, 15, 14, 20, 18, 5, 1, 21, 13, 9, 12, 12, 5, 21, 14, 16, 12, 1, 3, 5, 10, 5, 1, 14, 16, 1, 21, 12, 18, 9, 15, 16, 5, 12, 12, 5
 
-En remarquant que tout les nombres sont inférieurs à 26 on peut les convertir en lettre (avec [CyberChef](https://gchq.github.io/CyberChef/#recipe=A1Z26_Cipher_Decode('Space')&input=MTgsIDUsIDE0LCAzLCAxNSwgMTQsIDIwLCAxOCwgNSwgMSwgMjEsIDEzLCA5LCAxMiwgMTIsIDUsIDIxLCAxNCwgMTYsIDEyLCAxLCAzLCA1LCAxMCwgNSwgMSwgMTQsIDE2LCAxLCAyMSwgMTIsIDE4LCA5LCAxNSwgMTYsIDUsIDEyLCAxMiwgNQ) par exemple) et on trouve (en rajoutant les espaces):
+En remarquant que tout les nombres sont inférieurs à 26 on peut les convertir en lettre (avec [CyberChef](https://gchq.github.io/CyberChef/#recipe=A1Z26_Cipher_Decode()&input=MTgsIDUsIDE0LCAzLCAxNSwgMTQsIDIwLCAxOCwgNSwgMSwgMjEsIDEzLCA5LCAxMiwgMTIsIDUsIDIxLCAxNCwgMTYsIDEyLCAxLCAzLCA1LCAxMCwgNSwgMSwgMTQsIDE2LCAxLCAyMSwgMTIsIDE4LCA5LCAxNSwgMTYsIDUsIDEyLCAxMiwgNQ) par exemple) et on trouve (en rajoutant les espaces):
 
 	rencontre au mille un place jean paul riopelle
 
