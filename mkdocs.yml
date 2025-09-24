@@ -2,6 +2,8 @@ site_name: My CTF Challenges
 
 theme:
   name: material
+  icon:
+    logo: fontawesome/regular/flag
   palette:
 
     - media: "(prefers-color-scheme)"
