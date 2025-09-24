@@ -1,0 +1,9 @@
+site_name: My CTF Challenges
+theme:
+  name: material
+nav:
+  - Accueil: README.md
+  - 24@CTF 2024:
+      - OSINT:
+          - SteganOsint 1: 24hCTF-2024/OSINT/SteganOsint-1/README.md
+          - SteganOsint 1 - Solution: 24hCTF-2024/OSINT/SteganOsint-1/solution/README.md
